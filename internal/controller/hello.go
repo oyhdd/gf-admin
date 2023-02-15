@@ -3,9 +3,9 @@ package controller
 import (
 	"context"
 
-	v1 "goframe/api/v1"
-
 	"github.com/gogf/gf/v2/frame/g"
+
+	"gf-admin/api/v1"
 )
 
 var (
